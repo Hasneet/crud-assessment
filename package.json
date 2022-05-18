@@ -1,0 +1,22 @@
+{
+  "name": "crud-assessment",
+  "version": "1.0.0",
+  "description": "CRUD Assessment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hasneet/crud-assessment.git"
+  },
+  "author": "Hasneet Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hasneet/crud-assessment/issues"
+  },
+  "homepage": "https://github.com/Hasneet/crud-assessment#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
